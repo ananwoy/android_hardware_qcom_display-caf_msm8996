@@ -36,6 +36,7 @@
 #include <utils/rect.h>
 #include <utils/debug.h>
 #include <sync/sync.h>
+#include <sys/stat.h>
 #include <cutils/properties.h>
 #include <map>
 #include <utility>
